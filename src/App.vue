@@ -10,13 +10,11 @@
 <script>
 import headerPage from '@/components/headerPage.vue';
 import mainPage from '@/components/mainPage.vue';
-import cardPage from '@/components/cardPage.vue';
 
 export default {
   components: {
     headerPage,
     mainPage,
-    cardPage,
   },
 };
 </script>
