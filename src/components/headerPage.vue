@@ -4,10 +4,10 @@
 
 <script>
 export default {
-  name: headerPage,
+  name: 'headerPage',
 };
 </script>
 
-<style>
+<style lang="scss" scoped>
 
 </style>

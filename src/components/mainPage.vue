@@ -4,10 +4,10 @@
 
 <script>
 export default {
-  name: mainpPage,
+  name: 'mainPage',
 };
 </script>
 
-<style>
+<style lang="scss" scoped>
 
 </style>
