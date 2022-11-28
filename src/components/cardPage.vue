@@ -15,7 +15,7 @@ export default {
     imgUrl: String,
     titolo: String,
     autore: String,
-    anno: Number,
+    anno: String,
   },
 };
 </script>
